@@ -47,5 +47,5 @@ Tests include:
 - Randomization behavior
 
 ## Author
-[Your Name]
+Efren
 CS449 – Sprint 3
